@@ -126,12 +126,11 @@ footer p.top {
   section article {
     margin-left: 5%;
     width: 42.5%;
-    float: none;
   }
 
   section article p {
     font-size: 14px;
-    float: none;
+
   }
 
   @media screen and (max-width:320px)
