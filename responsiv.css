@@ -131,6 +131,7 @@ footer p.top {
 
   section article p {
     font-size: 14px;
+    float: none;
   }
 
   @media screen and (max-width:320px)
